@@ -1,5 +1,6 @@
 # ifdl
 A Python script to retrieve all image links from an ImageFap gallery. The links will be copied to the clipboard, after which any mass file downloader can be used. 
+
 EDIT: The script [ifdl_alt.py](ifdl_alt.py) stores the links in a text file rather than copying them to the clipboard. 
 
 ## Requirements for the script
